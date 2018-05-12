@@ -1,0 +1,48 @@
+_repo: '--------_39073'
+_version: 0.1.0
+alternative_title:
+- Choephori
+- The Libation Bearers
+contributor:
+  translator:
+    agent_name: Grypares, I. N. (Ioannes N.)
+    aliases:
+    - Grypares, Ioannes N.
+    - Gryparis, Ioannis
+    - Γρυπάρης, Ιωάννης
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '7740'
+    url: http://www.gutenberg.org/2009/agents/7740
+    wikipedia: http://el.wikipedia.org/wiki/%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%B7%CF%82_%CE%93%CF%81%CF%85%CF%80%CE%AC%CF%81%CE%B7%CF%82
+covers:
+- cover_type: archival
+  image_path: 39073-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Aeschylus
+    aliases:
+    - Aischylos
+    - Αισχύλος
+    - Αἰσχύλος
+    birthdate: -525
+    deathdate: -456
+    gutenberg_agent_id: '2825'
+    url: http://www.gutenberg.org/2009/agents/2825
+    wikipedia: http://en.wikipedia.org/wiki/Aeschylus
+description: ''
+gutenberg_issued: '2012-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39073'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orestes, King of Argos (Mythological character) -- Drama'
+- !lcc 'PA'
+- !lcsh 'Tragedies'
+- !lcsh 'Electra (Greek mythological figure) -- Drama'
+title: Χοηφόροι
+url: http://www.gutenberg.org/ebooks/39073
